@@ -18,3 +18,6 @@ function makeGrid() {
     }
         gridrow.append('td');
 }
+
+grid.makeGrid(){
+};
